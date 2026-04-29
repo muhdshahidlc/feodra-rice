@@ -1,6 +1,3 @@
-# Improved README.md
-
-````md
 # Fedora Hyprland Rice
 
 A clean and minimal Fedora Hyprland setup inspired by modern Linux ricing and JaKooLit-style workflows.
@@ -27,7 +24,7 @@ git clone https://github.com/muhdshahidlc/feodra-rice.git
 cd feodra-rice
 chmod +x install.sh
 ./install.sh
-````
+'''
 
 ## Included Configs
 
