@@ -1,6 +1,9 @@
-# Minimal Fedora Hyprland Rice
+# Improved README.md
 
-A clean and minimal Hyprland setup inspired by modern Linux rice setups.
+````md
+# Fedora Hyprland Rice
+
+A clean and minimal Fedora Hyprland setup inspired by modern Linux ricing and JaKooLit-style workflows.
 
 ## Components
 
@@ -15,10 +18,34 @@ A clean and minimal Hyprland setup inspired by modern Linux rice setups.
 
 ## Preview
 
-![desktop](screenshots/main.png)
+![Desktop Preview](screenshots/main.png)
 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/rice.git
-cd rice
+git clone https://github.com/muhdshahidlc/feodra-rice.git
+cd feodra-rice
+chmod +x install.sh
+./install.sh
+````
+
+## Included Configs
+
+* Hyprland window manager configuration
+* Waybar themes and layouts
+* Rofi launcher themes
+* Kitty terminal setup
+* GTK theming
+* Notification center setup
+* Wallpaper color generation using Wallust
+
+## Notes
+
+* Fedora-based setup
+* Minimal and aesthetic workflow focused
+* Inspired by JaKooLit + modern Linux rice setups
+
+## Author
+
+Made by Mohd Shahid
+
